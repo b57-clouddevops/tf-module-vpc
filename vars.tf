@@ -5,4 +5,5 @@ variable "ENV" {}
 variable "AZ" {}
 
 # Defaults
+variable "DEFAULT_VPC_ID" {}
 variable "DEFAULT_VPC_CIDR" {}
